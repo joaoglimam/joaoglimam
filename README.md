@@ -9,7 +9,7 @@ estudante de ciência da computação pela Universidade do Estado do Rio de Jane
 ## Pequenas curiosidades
 👩‍💻 Trabalho atualmente na Equinix Inc.
 
-🧠 Estou aprendendo mais sobre a cultura DEVOPS e automações
+🧠 Estou aprendendo mais sobre a cultura DEVOPS e automações, além de me aprofundar em conhecimentos de Cloud e infraestrutura OnPremisses
 
 👯‍♀️ Procuro colaborar em projetos focados em agilidade e facilidade para serviços gerenciados
 
